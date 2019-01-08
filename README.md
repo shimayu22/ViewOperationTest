@@ -1,0 +1,6 @@
+# ViewOperationTest
+ViewControllerから別のViewControllerを操作したかった
+
+ViewControllerにあるLabelの文字を代えるために別クラスの関数を呼び出す。
+エラーにはならないが、変更はされなかった。
+だからView関係は名前の通りViewControllerで操作する必要があるんですね
